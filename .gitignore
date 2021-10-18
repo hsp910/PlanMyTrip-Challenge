@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Specific files #
+##################
+Weather_Database/config.py
+
+
 # Distribution / packaging
 .Python
 build/
